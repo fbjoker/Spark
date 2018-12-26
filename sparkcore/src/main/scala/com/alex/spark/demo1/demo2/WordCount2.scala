@@ -15,6 +15,9 @@ object WordCount2 {
     println(sc.parallelize(1 to 10).partitions.length)
 
 
+    val rdd3=List(1,2,3,4)
+
+
   }
 
 }
