@@ -29,7 +29,7 @@ object demo1 {
 
     spark.stop()
 
-    map(x=>(Person(x_.split(" ")(0),x_.split(" ")(1))))
+
 
   }
 
